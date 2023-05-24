@@ -22,10 +22,10 @@
 }
 
 .imgtop {
-    position: absolute;
     width: 220px;
     left: 80px;
     top: 30px;
+    /* box-shadow: 2px 2px 2px 2px rgb(241, 241, 241); */
 }
 
 .imgbottom {
@@ -424,7 +424,7 @@ button {
 
     .date1 {
         width: 70px;
-        height: 40px;
+        height: 50px;
         /* text-align: center; */
         margin-right: 15px;
         padding-left: .5rem;
@@ -443,7 +443,7 @@ button {
         margin-left: 20px;
         padding-left: .5rem;
         width: 250px;
-        height: 40px;
+        height: 39px;
         /* text-align: center; */
         border-radius: .5rem;
         border: rgba(44, 44, 44, 0.308) 1px solid;
