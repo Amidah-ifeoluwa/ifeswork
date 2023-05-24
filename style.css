@@ -130,6 +130,11 @@ button {
     font-size: 20px;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 .placeholder {
     font-size: 10px;
 }
@@ -245,7 +250,11 @@ button {
         border: rgba(44, 44, 44, 0.308) 1px solid;
         outline: none;
         color: white;
+    }
 
+    a {
+        text-decoration: none;
+        color: white;
     }
 }
 
@@ -358,7 +367,11 @@ button {
         border: rgba(44, 44, 44, 0.308) 1px solid;
         outline: none;
         color: white;
+    }
 
+    a {
+        text-decoration: none;
+        color: white;
     }
 }
 
@@ -471,6 +484,10 @@ button {
         border: rgba(44, 44, 44, 0.308) 1px solid;
         outline: none;
         color: white;
+    }
 
+    a {
+        text-decoration: none;
+        color: white;
     }
 }
